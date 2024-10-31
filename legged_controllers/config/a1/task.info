@@ -12,7 +12,8 @@ model_settings
 
   verboseCppAd                  true
   recompileLibrariesCppAd       false
-  modelFolderCppAd              /tmp/legged_control/a1
+  modelFolderCppAd              /home/syw/toolkits/ros_related/legged_control_ws/legged_control_cache/a1
+
 }
 
 swing_trajectory_config
